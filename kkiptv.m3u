@@ -1,5 +1,26 @@
 #EXTM3U
 
+翡翠台(第1声道繁体) : http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(第2声道简体) : http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(粤语繁体) : http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(普通话简体) : http://iptv.tvfix.org/hls/jadenhk2.m3u8
+J2 : http://iptv.tvfix.org/hls/j2.m3u8
+J2(第2声道) : http://iptv.tvfix.org/hls/j22.m3u8
+无线新闻台 : http://iptv.tvfix.org/hls/inews.m3u8
+无线新闻台(第2声道) : http://iptv.tvfix.org/hls/inews2.m3u8
+明珠台 : http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台(第2声道) : http://iptv.tvfix.org/hls/pearl2.m3u8
+无线财经资讯台 : http://iptv.tvfix.org/hls/finance.m3u8
+无线财经资讯台(第2声道) : http://iptv.tvfix.org/hls/finance2.m3u8
+无线财经资讯台海外版 : http://iptv.tvfix.org/hls/financenhk.m3u8
+ViuTV : http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV(第2声道) : http://iptv.tvfix.org/hls/viutv2.m3u8
+ViuTV6 : http://iptv.tvfix.org/hls/viutv6.m3u8
+RTHK31 : http://iptv.tvfix.org/hls/rthk31.m3u8
+RTHK32 : http://iptv.tvfix.org/hls/rthk32.m3u8
+香港国际财经台 : http://iptv.tvfix.org/hls/hkibc.m3u8
+香港开电视 : http://iptv.tvfix.org/hls/opentv.m3u8
+
 #EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/.images/tv.9.png" tvg-chno="1",TVNZ 1
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
 
