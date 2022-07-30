@@ -1,190 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1,翡翠台(第1声道繁体)
-http://iptv.tvfix.org/hls/jade.m3u8
-
-#EXTINF:-1,翡翠台(第2声道简体)
-http://iptv.tvfix.org/hls/jade2.m3u8
-
-#EXTINF:-1,翡翠台海外版(粤语繁体)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
-
-#EXTINF:-1,翡翠台海外版(普通话简体)
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
-
-#EXTINF:-1,J2
-http://iptv.tvfix.org/hls/j2.m3u8
-
-#EXTINF:-1,J2(第2声道)
-http://iptv.tvfix.org/hls/j22.m3u8
-
-#EXTINF:-1,无线新闻台
-http://iptv.tvfix.org/hls/inews.m3u8
-
-#EXTINF:-1,无线新闻台(第2声道)
-http://iptv.tvfix.org/hls/inews2.m3u8
-
-#EXTINF:-1,明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-
-#EXTINF:-1,明珠台(第2声道)
-http://iptv.tvfix.org/hls/pearl2.m3u8
-
-#EXTINF:-1,ViuTV
-http://iptv.tvfix.org/hls/viutv.m3u8
-
-#EXTINF:-1,ViuTV(第2声道)
-http://iptv.tvfix.org/hls/viutv2.m3u8
-
-#EXTINF:-1,ViuTV6
-http://iptv.tvfix.org/hls/viutv6.m3u8
-
-#EXTINF:-1,RTHK31
-http://iptv.tvfix.org/hls/rthk31.m3u8
-
-#EXTINF:-1,RTHK32
-http://iptv.tvfix.org/hls/rthk32.m3u8
-
-#EXTINF:-1,香港国际财经台
-http://iptv.tvfix.org/hls/hkibc.m3u8
-
-#EXTINF:-1,香港开电视
-http://iptv.tvfix.org/hls/opentv.m3u8
-
-#EXTINF:-1,TVB星河(粤语)
-http://iptv.tvfix.org/hls/tvbxh.m3u8
-
-#EXTINF:-1,TVB功夫台(粤语)
-http://iptv.tvfix.org/hls/tvbkf.m3u8
-
-#EXTINF:-1,TVB经典台
-http://iptv.tvfix.org/hls/tvbjd.m3u8
-
-#EXTINF:-1,TVB为食台
-http://iptv.tvfix.org/hls/tvbws.m3u8
-
-#EXTINF:-1,TVB为食台(第2声道)
-http://iptv.tvfix.org/hls/tvbws2.m3u8
-
-#EXTINF:-1,CCTV-1高清
-http://iptv.tvfix.org/hls/cctv1hd.m3u8
-
-#EXTINF:-1,CCTV-3高清
-http://iptv.tvfix.org/hls/cctv3hd.m3u8
-
-#EXTINF:-1,CCTV-4高清
-http://iptv.tvfix.org/hls/cctv4hd.m3u8
-
-#EXTINF:-1,CCTV-5高清
-http://iptv.tvfix.org/hls/cctv5hd.m3u8
-
-#EXTINF:-1,北京卫视高清
-http://iptv.tvfix.org/hls/brtv1hd.m3u8
-
-#EXTINF:-1,湖南卫视高清
-http://iptv.tvfix.org/hls/hunanhd.m3u8
-
-#EXTINF:-1,浙江卫视高清
-http://iptv.tvfix.org/hls/zjhd.m3u8
-
-#EXTINF:-1,江苏卫视高清
-http://iptv.tvfix.org/hls/jshd.m3u8
-
-#EXTINF:-1,东方卫视高清
-http://iptv.tvfix.org/hls/dfhd.m3u8
-
-#EXTINF:-1,凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
-
-#EXTINF:-1,凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
-
-#EXTINF:-1,五星体育高清
-http://iptv.tvfix.org/hls/wxtyhd.m3u8
-
-#EXTINF:-1,极速汽车高清
-http://iptv.tvfix.org/hls/jsqchd.m3u8
-
-#EXTINF:-1,劲爆体育高清
-http://iptv.tvfix.org/hls/jbtyhd.m3u8
-
-#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/.images/tv.9.png" tvg-chno="1",TVNZ 1
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/.images/tv.9.png" tvg-chno="1" group-title="New Zealand",TVNZ 1
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/.images/tv.10.png" tvg-chno="2",TVNZ 2
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/.images/tv.10.png" tvg-chno="2" group-title="New Zealand",TVNZ 2
 https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.11" tvg-logo="http://i.mjh.nz/.images/tv.11.png" tvg-chno="3",Three
-https://livestreamdirect-three.mediaworks.nz/three.m3u8
-
-#EXTINF:-1 tvg-id="tv.12" tvg-logo="http://i.mjh.nz/.images/tv.12.png" tvg-chno="4",Bravo
-https://bravo-livestream.mediaworks.nz/index.m3u8
-
-#EXTINF:-1 tvg-id="tv.13" tvg-logo="http://i.mjh.nz/.images/tv.13.png" tvg-chno="5",Māori Television
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
-
-#EXTINF:-1 tvg-id="tv.28" tvg-logo="http://i.mjh.nz/.images/tv.28.png" tvg-chno="10",PRIME
+#EXTINF:-1 tvg-id="tv.28" tvg-logo="http://i.mjh.nz/.images/tv.28.png" tvg-chno="10" group-title="New Zealand",PRIME
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
 
-#EXTINF:-1 tvg-id="tv.51" tvg-logo="http://i.mjh.nz/.images/tv.51.png" tvg-chno="11",The Edge TV
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-
-#EXTINF:-1 tvg-id="tv.37" tvg-logo="http://i.mjh.nz/.images/tv.37.png" tvg-chno="12",Choice TV
-https://livestreams.e-cast.co.nz/choicetv.m3u8
-
-#EXTINF:-1 tvg-id="tv.55" tvg-logo="http://i.mjh.nz/.images/tv.55.png" tvg-chno="13",DUKE
-https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
-
-#EXTINF:-1 tvg-id="tv.68" tvg-logo="http://i.mjh.nz/.images/tv.68.png" tvg-chno="14",BREEZE TV
-https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
-
-#EXTINF:-1 tvg-id="tv.20" tvg-logo="http://i.mjh.nz/.images/tv.20.png" tvg-chno="15",Te Reo
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master.m3u8
-
-#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png" tvg-chno="16",Al Jazeera
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png" tvg-chno="16" group-title="New Zealand",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="tv.58" tvg-logo="http://i.mjh.nz/.images/tv.58.png" tvg-chno="17",HGTV
-https://livestreams.e-cast.co.nz/hgtv.m3u8
-
-#EXTINF:-1 tvg-id="tv.45" tvg-logo="http://i.mjh.nz/.images/tv.45.png" tvg-chno="20",TVSN Shopping
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz.m3u8
-
-#EXTINF:-1 tvg-id="tv.7" tvg-logo="http://i.mjh.nz/.images/tv.7.png" tvg-chno="25",Shine TV
-https://rhemamedia.global.ssl.fastly.net/ShineTV_Legacy/high/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv.39" tvg-logo="http://i.mjh.nz/.images/tv.39.png" tvg-chno="26",Firstlight
-https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv.56" tvg-logo="http://i.mjh.nz/.images/tv.56.png" tvg-chno="27",Hope Channel
-https://dcunilive24-lh.akamaihd.net/i/dclive_1@333694/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1598522721~acl=%2fi%2fdclive_1%40333694*~data=hdntl~hmac=fb7066a9d94eeed02a71333b8d63b9ef9c17d58165de00692a80d5aeada49348
-
-#EXTINF:-1 tvg-id="tv.21" tvg-logo="http://i.mjh.nz/.images/tv.21.png" tvg-chno="28",Chinese TV28
-https://livestreams.e-cast.co.nz/chinesetv.m3u8
-
-#EXTINF:-1 tvg-id="tv.36" tvg-logo="http://i.mjh.nz/.images/tv.36.png" tvg-chno="29",Chinese TV29
-https://livestreams.e-cast.co.nz/tv29.m3u8
-
-#EXTINF:-1 tvg-id="tv.18" tvg-logo="http://i.mjh.nz/.images/tv.18.png" tvg-chno="31",Parliament TV
-https://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
-
-#EXTINF:-1 tvg-id="tv.49" tvg-logo="http://i.mjh.nz/.images/tv.49.png" tvg-chno="36",APNA Television
-https://livestreams.e-cast.co.nz/apnatv.m3u8
-
-#EXTINF:-1 tvg-id="tv.63" tvg-logo="http://i.mjh.nz/.images/tv.63.png" tvg-chno="37",Panda TV
-https://livestreams.e-cast.co.nz/pandatv.m3u8
-
-#EXTINF:-1 tvg-id="tv.60" tvg-logo="http://i.mjh.nz/.images/tv.60.png" tvg-chno="41",Wairarapa TV
-https://stream.wairarapatv.co.nz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv.66" tvg-logo="http://i.mjh.nz/.images/tv.66.png" tvg-chno="200",Kordia TV
-https://streaming.kordia.net.nz/out/u/ContentServices.m3u8
-
-#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" group-title="New Zealand",Redbull TV
 https://cdnlb-rbmn-live.zycadized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.trackside1" tvg-logo="http://i.mjh.nz/.images/tv.trackside1.png",TAB Trackside 1
-https://tab-trackside.akamaized.net/hls/live/2017599/Trackside1/HRNZ/playlist.m3u8?hdnts=exp=1598466108~acl=/hls/live/2017599/Trackside1/HRNZ/*~hmac=e2839e9d44beaf05d32ea7d98c25219c3fc74563965665e38a4d9bd0f091c8cc
-
-#EXTINF:-1 tvg-id="tv.trackside2" tvg-logo="http://i.mjh.nz/.images/tv.trackside2.png",TAB Trackside 2
-https://tab-trackside.akamaized.net/hls/live/2017600/Trackside2/HRNZ/playlist.m3u8?hdnts=exp=1598466108~acl=/hls/live/2017600/Trackside2/HRNZ/*~hmac=ab50f40b9eb806a2f33da4b41f139c38939a395b1a557b199d80ade243000db9
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="CCTV",CCTV1
+http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="CCTV",CCTV2
+http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="CCTV",CCTV3
+http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="CCTV",CCTV4
+http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="CCTV",CCTV5
+http://111.20.33.93/TVOD/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="CCTV",CCTV5+
+http://111.20.33.93/TVOD/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="CCTV",CCTV6
+http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="CCTV",CCTV7
+http://111.20.33.93/TVOD/88888893/224/3221226192/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="CCTV",CCTV8
+http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="CCTV",CCTV9
+http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="CCTV",CCTV10
+http://111.20.33.93/TVOD/88888893/224/3221226189/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="CCTV",CCTV11
+http://111.20.33.93/TVOD/88888893/224/3221226240/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="CCTV",CCTV12
+http://111.20.33.93/TVOD/88888893/224/3221226190/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="CCTV",CCTV13
+http://111.20.33.93/TVOD/88888893/224/3221226233/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="CCTV",CCTV14
+http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="CCTV",CCTV17
