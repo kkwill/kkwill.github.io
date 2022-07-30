@@ -73,3 +73,18 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
 #EXTINF:-1 channel-id="pluto-60fb00b4b6455d0007493b0b" tvg-id="60fb00b4b6455d0007493b0b" tvg-chno="985" tvg-logo="https://images.pluto.tv/channels/60fb00b4b6455d0007493b0b/colorLogoPNG.png" group-title="儿童频道",BBC Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="US: 5 Star max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="USA",US: 5 Star max
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2291
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="USA",US: HBO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2336
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/79c60a05cd0b554a1c2b465e5004313b.png" group-title="USA",US: HBO 2
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/5844
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US: HBO Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d006de5f08a0cb1dc56c649758d30c05.png" group-title="USA",US: HBO Comedy
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/2335
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/368ee4e3ee59bbf1668ceca64040668a.png" group-title="USA",US: HBO Family
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/760
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png" group-title="USA",US: HBO Signature
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/6305
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US: HBO Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="USA",US: HBO Zone
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/6328
