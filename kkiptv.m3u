@@ -88,3 +88,6 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/760
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/6305
 #EXTINF:-1 tvg-id="hbozone.us" tvg-name="US: HBO Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="USA",US: HBO Zone
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/6328
+
+#EXTINF:-1 group-title="海外频道",Ion Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
