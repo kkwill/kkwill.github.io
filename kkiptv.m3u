@@ -2,16 +2,12 @@
 
 #EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/.images/tv.9.png" tvg-chno="1" group-title="New Zealand",TVNZ 1
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
-
 #EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/.images/tv.10.png" tvg-chno="2" group-title="New Zealand",TVNZ 2
 https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
-
 #EXTINF:-1 tvg-id="tv.28" tvg-logo="http://i.mjh.nz/.images/tv.28.png" tvg-chno="10" group-title="New Zealand",PRIME
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
-
 #EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png" tvg-chno="16" group-title="New Zealand",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
 #EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" group-title="New Zealand",Redbull TV
 https://cdnlb-rbmn-live.zycadized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -46,3 +42,34 @@ http://111.20.33.93/TVOD/88888893/224/3221226233/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="CCTV",CCTV14
 http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="CCTV",CCTV17
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="各地卫视",北京卫视
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+
+#EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptvdy.png" group-title="电影台",北京IPTV淘电影
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptv4k.png" group-title="电影台",北京IPTV4K超清
+http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+
+#EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="剧集综艺纪录",北京IPTV淘剧场
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-name="北京IPTV淘娱乐" tvg-logo="https://www.hualigs.cn/image/6153d99a421ec.jpg" group-title="剧集综艺纪录",北京IPTV淘娱乐
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/LoveNature.png" group-title="剧集综艺纪录",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/14/L1JLlT.png" group-title="剧集综艺纪录",LOUPE 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9427240000.jpg" group-title="剧集综艺纪录",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id=“7122” tvg-name="有线新闻台"  group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png",無線電視J1台
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="港澳台",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="儿童频道",PBS Kids FHD
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
+#EXTINF:-1 channel-id="pluto-60fb00b4b6455d0007493b0b" tvg-id="60fb00b4b6455d0007493b0b" tvg-chno="985" tvg-logo="https://images.pluto.tv/channels/60fb00b4b6455d0007493b0b/colorLogoPNG.png" group-title="儿童频道",BBC Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
