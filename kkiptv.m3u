@@ -68,6 +68,8 @@ https://api.leonardpark.dev/live/icable/109
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="港澳台",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="儿童频道",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
@@ -89,5 +91,9 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/6305
 #EXTINF:-1 tvg-id="hbozone.us" tvg-name="US: HBO Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="USA",US: HBO Zone
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/6328
 
-#EXTINF:-1 group-title="海外频道",Ion Plus
+#EXTINF:-1 tvg-logo="https://ionplustv.com/static/global/IONPlusDefault.jpg" group-title="海外频道",Ion Plus
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCPresents.us" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="海外频道",AMC Presents
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/tvblackbox.com.au/wp-content/uploads/2021/11/AMC.jpg" group-title="海外频道",AMC+
+https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
