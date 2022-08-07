@@ -46,13 +46,13 @@ http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="各地卫视",北京卫视
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="各地卫视",浙江卫视
-http://111.20.33.93/TVOD/88888888/224/3221225788/index.m3u8
+http://111.20.33.93/TVOD/88888888/224/3221225798/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="各地卫视",湖南卫视
-http://111.20.33.93/TVOD/88888888/224/3221225787/index.m3u8
+http://111.20.33.93/TVOD/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="各地卫视",江苏卫视
-http://111.20.33.93/TVOD/88888888/224/3221225746/index.m3u8
+http://111.20.33.93/TVOD/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="各地卫视",东方卫视
-http://111.20.33.93/TVOD/88888888/224/3221225599/index.m3u8
+http://111.20.33.93/TVOD/88888888/224/3221225797/index.m3u8
 
 
 #EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptvdy.png" group-title="电影台",北京IPTV淘电影
