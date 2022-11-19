@@ -84,6 +84,10 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/television-home-theater/tvs/tvplus/all-channels/09072021/Clarity_4K_190x190_Circle.png" group-title="剧集综艺纪录",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id=“7122” tvg-name="有线新闻台"  group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png",無線電視J1台
