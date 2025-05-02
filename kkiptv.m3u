@@ -1,22 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tv.9" tvg-logo="http://i.mjh.nz/.images/tv.9.png" tvg-chno="1" group-title="New Zealand",TVNZ 1
-https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="http://i.mjh.nz/.images/tv.10.png" tvg-chno="2" group-title="New Zealand",TVNZ 2
-https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
-#EXTINF:-1 tvg-id="tv.28" tvg-logo="http://i.mjh.nz/.images/tv.28.png" tvg-chno="10" group-title="New Zealand",PRIME
-https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
-#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png" tvg-chno="16" group-title="New Zealand",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" group-title="New Zealand",Redbull TV
-https://cdnlb-rbmn-live.zycadized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台 1080P
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="CCTV",CCTV1
-http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="CCTV",CCTV2
-http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="CCTV",CCTV3
-http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="HK",TVB
-https://cdn.hkdtmb.com/hls/playlist.m3u?token=419118559471542
+#EXTINF:-1 tvg-id="TVB翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台 4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
